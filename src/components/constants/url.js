@@ -1,0 +1,1 @@
+export  const URL="https://api.themoviedb.org/3/movie/550?api_key=faa9a363bbee5ad703264d327b01e794";
